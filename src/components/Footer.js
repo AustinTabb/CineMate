@@ -16,6 +16,7 @@ export const Footer = () => {
             <a
               href="https://github.com/AustinTabb"
               target="_blank"
+              rel="noreferrer"
               className="mr-4 hover:underline md:mr-6 "
             >
               GitHub
@@ -25,6 +26,7 @@ export const Footer = () => {
             <a
               href="https://twitch.com/TheAltF4Stream"
               target="_blank"
+              rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
             >
               Twitch
